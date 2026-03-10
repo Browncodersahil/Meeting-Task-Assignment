@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Sakshi",
+    "role": "Frontend Developer",
+    "skills": ["React", "JavaScript", "UI", "bugs", "frontend", "login", "dashboard", "loading"]
+  },
+  {
+    "name": "Mohit",
+    "role": "Backend Engineer",
+    "skills": ["database", "APIs", "performance", "optimization", "documentation", "backend"]
+  },
+  {
+    "name": "Arjun",
+    "role": "UI/UX Designer",
+    "skills": ["Figma", "design", "onboarding", "mobile", "UI", "UX", "screens"]
+  },
+  {
+    "name": "Lata",
+    "role": "QA Engineer",
+    "skills": ["testing", "unit tests", "automation", "QA", "payment", "quality"]
+  },
+  {
+    "name": "John",
+    "role": "ML Engineer",
+    "skills": ["machine learning", "model", "training", "Python", "TensorFlow", "PyTorch", "data", "pipeline", "ML", "AI", "neural", "dataset"]
+  },
+  {
+    "name": "Tom",
+    "role": "DevOps Engineer",
+    "skills": ["CI/CD", "deployment", "docker", "kubernetes", "pipeline", "infrastructure", "monitoring", "server", "build", "devops"]
+  },
+  {
+    "name": "Mike",
+    "role": "Cloud Engineer",
+    "skills": ["cloud", "AWS", "Azure", "GCP", "storage", "scaling", "infrastructure", "migration", "bucket", "compute", "serverless"]
+  }
+]
