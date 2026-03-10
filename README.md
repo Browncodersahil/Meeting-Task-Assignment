@@ -64,7 +64,6 @@ Output is saved to `output/<audio_filename>.json`
 | Speech to Text | Groq Whisper API (whisper-large-v3) |
 | NLP | spaCy (en_core_web_sm) |
 | Language | Python 3.11+ |
-| OOP Design | ABC, dataclasses, inheritance |
 
 ## Design Decisions
 
