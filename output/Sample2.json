@@ -1,0 +1,66 @@
+{
+  "generated_at": "2026-03-10T12:09:54.095155",
+  "total_tasks": 6,
+  "tasks": [
+    {
+      "id": 1,
+      "description": "Shakshi fix critical login bug by tomorrow",
+      "assigned_to": "Sakshi",
+      "deadline": "Tomorrow",
+      "priority": "Critical",
+      "has_dependency": false,
+      "dependency_note": "",
+      "reason": "Auto-assigned: Frontend Developer \u2014 best skill match"
+    },
+    {
+      "id": 2,
+      "description": "Shakshi update dashboard loading speed by end of week",
+      "assigned_to": "Sakshi",
+      "deadline": "End of this week",
+      "priority": "High",
+      "has_dependency": false,
+      "dependency_note": "",
+      "reason": "Auto-assigned: Frontend Developer \u2014 best skill match"
+    },
+    {
+      "id": 3,
+      "description": "Optimize database performance by Friday",
+      "assigned_to": "Mohit",
+      "deadline": "Friday",
+      "priority": "High",
+      "has_dependency": false,
+      "dependency_note": "",
+      "reason": "Auto-assigned: Backend Engineer \u2014 best skill match"
+    },
+    {
+      "id": 4,
+      "description": "Mohith to update API documentation before release",
+      "assigned_to": "Mohit",
+      "deadline": "TBD",
+      "priority": "High",
+      "has_dependency": false,
+      "dependency_note": "",
+      "reason": "Auto-assigned: Backend Engineer \u2014 best skill match"
+    },
+    {
+      "id": 5,
+      "description": "Design new onboarding screens for next sprint",
+      "assigned_to": "Arjun",
+      "deadline": "Next sprint",
+      "priority": "Low",
+      "has_dependency": false,
+      "dependency_note": "",
+      "reason": "UI/UX Designer \u2014 Figma, design"
+    },
+    {
+      "id": 6,
+      "description": "Login bug fixed write automation test for payment module",
+      "assigned_to": "Lata",
+      "deadline": "Today",
+      "priority": "Critical",
+      "has_dependency": true,
+      "dependency_note": "Has dependency (see transcript)",
+      "reason": "QA Engineer \u2014 testing, unit tests"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "generated_at": "2026-03-10T12:15:12.248796",
+  "total_tasks": 6,
+  "tasks": [
+    {
+      "id": 1,
+      "description": "To train new recommendation model by end of week",
+      "assigned_to": "John",
+      "deadline": "End of this week",
+      "priority": "High",
+      "has_dependency": false,
+      "dependency_note": "",
+      "reason": "ML Engineer \u2014 machine learning, model"
+    },
+    {
+      "id": 2,
+      "description": "Prepare model evaluation report by Friday",
+      "assigned_to": "John",
+      "deadline": "Friday",
+      "priority": "High",
+      "has_dependency": false,
+      "dependency_note": "",
+      "reason": "ML Engineer \u2014 machine learning, model"
+    },
+    {
+      "id": 3,
+      "description": "Set up CI CD pipeline for new services by tomorrow",
+      "assigned_to": "Tom",
+      "deadline": "Tomorrow",
+      "priority": "High",
+      "has_dependency": false,
+      "dependency_note": "",
+      "reason": "DevOps Engineer \u2014 CI/CD, deployment"
+    },
+    {
+      "id": 4,
+      "description": "To deploy staging environment by end of week",
+      "assigned_to": "Tom",
+      "deadline": "End of this week",
+      "priority": "High",
+      "has_dependency": false,
+      "dependency_note": "",
+      "reason": "DevOps Engineer \u2014 CI/CD, deployment"
+    },
+    {
+      "id": 5,
+      "description": "Migrate storage buckets to new AWS region by next Monday",
+      "assigned_to": "Mike",
+      "deadline": "Next Monday",
+      "priority": "Medium",
+      "has_dependency": false,
+      "dependency_note": "",
+      "reason": "Cloud Engineer \u2014 cloud, AWS"
+    },
+    {
+      "id": 6,
+      "description": "Deployment done scale cloud infrastructure for release",
+      "assigned_to": "Mike",
+      "deadline": "TBD",
+      "priority": "High",
+      "has_dependency": true,
+      "dependency_note": "Depends on prior task completion",
+      "reason": "Cloud Engineer \u2014 cloud, AWS"
+    }
+  ]
+}
