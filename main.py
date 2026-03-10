@@ -88,7 +88,7 @@ def run(audio_path: str, team_path: str, output_path: str):
     formatter = OutputFormatter()
     formatter.process(tasks, output_path=output_path)
 
-    print(f"\n✅ Done! JSON saved → {output_path}\n")
+    print(f"\n Done! JSON saved → {output_path}\n")
 
 
 def main():
@@ -105,4 +105,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
