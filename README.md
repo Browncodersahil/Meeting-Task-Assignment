@@ -3,7 +3,7 @@
 An intelligent system that automatically extracts tasks from meeting audio recordings and assigns them to the right team members using NLP and skill-based matching.
 
 ## Drive Link Of Task-Assignment Video 
-Link-- https://drive.google.com/file/d/1WNI23BolFXjHqBcHuOoYLxBz2eI81fbX/view?usp=sharing
+Link-- https://docs.google.com/videos/d/1WETh_MI_ffLEruJ6k4X3_roHk75K1lKBCiUHI6DhWAA/edit?usp=sharing
 
 ## How It Works
 
